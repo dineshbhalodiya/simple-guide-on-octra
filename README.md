@@ -42,3 +42,14 @@ bun run build
 bun start
 
 ````
+
+click the “PORTS” tab open link under forwarded address in browser
+
+Wallet Generated, Back up private key
+
+Now go to https://faucet.octra.network/
+
+Paste Wallet address & claim faucet
+
+
+
