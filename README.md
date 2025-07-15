@@ -22,3 +22,9 @@ bun --version
 
 ````
 
+🔹 Step 2:
+
+````bash
+bun install
+
+````
