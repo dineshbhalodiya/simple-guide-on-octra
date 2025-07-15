@@ -34,3 +34,11 @@ bun install
 ````bash
 bun run build
 ````
+
+🔹 Step 4:
+
+````bash
+
+bun start
+
+````
