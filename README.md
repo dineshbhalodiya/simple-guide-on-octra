@@ -28,3 +28,9 @@ bun --version
 bun install
 
 ````
+
+🔹 Step 3:
+
+````bash
+bun run build
+````
